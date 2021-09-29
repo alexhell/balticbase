@@ -1,1 +1,1 @@
-# balticbase.github.io
+# balticbase
