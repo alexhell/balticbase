@@ -1,6 +1,3 @@
 # Balticbase
 
-nu
-
-kk
-ü
+coming soon
